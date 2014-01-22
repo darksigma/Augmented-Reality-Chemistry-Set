@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CarbonDioxide" size="5.000000 4.574627" />
+    <ImageTarget name="Heat" size="5.000000 4.906250" />
+    <ImageTarget name="Oxygen" size="5.000000 2.438462" />
+    <ImageTarget name="Water" size="5.000000 3.895782" />
+    <ImageTarget name="Hydrogen" size="5.000000 3.325000" />
+    <ImageTarget name="WaterAnimation" size="5.000000 3.857143" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,59 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/Managed/UnityEngine.dll"
+-r:"Assets/Qualcomm Augmented Reality/Scripts/Internal/Qualcomm.Vuforia.UnityExtensions.dll"
+-define:UNITY_ANDROID
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_AUDIO_FMOD
+-define:ENABLE_MONO
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_GENERICS
+-define:ENABLE_SUBSTANCE
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:UNITY_ANDROID_API
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:UNITY_4_3_2
+-define:UNITY_4_3
+"Assets/Qualcomm Augmented Reality/Scripts/CloudRecoBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/CylinderTargetBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/DataSetLoadBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/DefaultInitializationErrorHandler.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/DefaultTrackableEventHandler.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/GLErrorHandler.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/ImageTargetBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/Internal/AndroidUnityPlayer.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/Internal/BGRenderingBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/Internal/ComponentFactoryStarterBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/Internal/VuforiaBehaviourComponentFactory.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/KeepAliveBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/MarkerBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/MaskOutBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/MultiTargetBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/QCARBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/SetBGCameraLayerBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/TextRecoBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/TurnOffBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/TurnOffWordBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/UserDefinedTargetBuildingBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/VirtualButtonBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/WebCamBehaviour.cs"
+"Assets/Qualcomm Augmented Reality/Scripts/WordBehaviour.cs"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Runtime.Serialization.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Xml.Linq.dll"
