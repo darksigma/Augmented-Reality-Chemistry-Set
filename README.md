@@ -1,2 +1,1 @@
-Augmented-Reality-Chemistry-Set
-===============================
+I developed this android application using the C# driven Unity platform and the Qualcomm Vuforia SDK in order to create a augmented reality chemistry trading card set. 3-dimensional models were generated in blender.
